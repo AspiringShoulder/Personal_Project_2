@@ -1,0 +1,1 @@
+This is a basic e-commerce backend API that uses a Postman collection to simulate a frontend. It primarily uses Spring Boot, the MVC structure, and REST to handle a variety of different CRUD operations.
